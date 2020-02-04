@@ -1,0 +1,13 @@
+D:\Source\FoodOrder\FoodOrder.Data\bin\Debug\netcoreapp3.1\FoodOrder.Data.deps.json
+D:\Source\FoodOrder\FoodOrder.Data\bin\Debug\netcoreapp3.1\FoodOrder.Data.dll
+D:\Source\FoodOrder\FoodOrder.Data\bin\Debug\netcoreapp3.1\FoodOrder.Data.pdb
+D:\Source\FoodOrder\FoodOrder.Data\bin\Debug\netcoreapp3.1\FoodOrder.Core.dll
+D:\Source\FoodOrder\FoodOrder.Data\bin\Debug\netcoreapp3.1\FoodOrder.Core.pdb
+D:\Source\FoodOrder\FoodOrder.Data\obj\Debug\netcoreapp3.1\FoodOrder.Data.csprojAssemblyReference.cache
+D:\Source\FoodOrder\FoodOrder.Data\obj\Debug\netcoreapp3.1\FoodOrder.Data.AssemblyInfoInputs.cache
+D:\Source\FoodOrder\FoodOrder.Data\obj\Debug\netcoreapp3.1\FoodOrder.Data.AssemblyInfo.cs
+D:\Source\FoodOrder\FoodOrder.Data\obj\Debug\netcoreapp3.1\FoodOrder.Data.csproj.CopyComplete
+D:\Source\FoodOrder\FoodOrder.Data\obj\Debug\netcoreapp3.1\FoodOrder.Data.dll
+D:\Source\FoodOrder\FoodOrder.Data\obj\Debug\netcoreapp3.1\FoodOrder.Data.pdb
+D:\Source\FoodOrder\FoodOrder.Data\bin\Debug\netcoreapp3.1\FoodOrder.Data.runtimeconfig.json
+D:\Source\FoodOrder\FoodOrder.Data\bin\Debug\netcoreapp3.1\FoodOrder.Data.runtimeconfig.dev.json
